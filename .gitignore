@@ -1,0 +1,17 @@
+# .DS_Store
+# /website/node_modules/
+# .
+
+/website/yarn.lock
+/website/package-lock.json
+/website/build
+/website/node_modules
+/.idea
+.idea
+/website/yarn.lock
+/website/yarn-debug.log*
+/website/yarn-error.log*
+/website/npm-debug.log*
+/website/.DS_Store
+.DS_Store
+/.git
