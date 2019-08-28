@@ -59,7 +59,7 @@ class Index extends React.Component {
           <p className="discripe">让组件编写更具效率化</p>
           <div className="buttons">
             <div>
-              <Button href={this.props.config.raccStartUrl}>开始使用</Button>
+              <Button href="/racc">开始使用</Button>
             </div>
             <div style={{ marginLeft: "20px" }}>
               <a

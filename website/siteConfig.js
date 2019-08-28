@@ -24,7 +24,7 @@ const siteConfig = {
   title: "Venom", // Title for your website.
   tagline: "SPA应用全流程解决方案",
   url: "https://your-docusaurus-test-site.com", // Your website URL
-  baseUrl: "/racc", // Base URL for your project */
+  baseUrl: "/", // Base URL for your project */
   venomUrl: "https://github.com/venom-js/venom-cli",
   raccUrl: "https://github.com/venom-js/react-antd-common-component",
   // For github.io type URLs, you would set the url and baseUrl like:
