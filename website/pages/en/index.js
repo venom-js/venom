@@ -28,11 +28,11 @@ class Index extends React.Component {
     const VenomJs = () => {
       return (
         <div className="productShowcaseSection mgb-50">
-          <p className="title">Venom-cli</p>
-          <p className="discripe">快速生成新项目，提升开发效率和开发舒适度 </p>
+          <p className="title">create-venom</p>
+          <p className="discripe">专注于可视化配置的企业级脚手架</p>
           <div className="buttons">
             <div>
-              <Button href="docs/doc1_introduce">开始使用</Button>
+              <Button href="docs/doc1_introduce">开始探索</Button>
             </div>
             <div style={{ marginLeft: "20px" }}>
               <a
@@ -55,7 +55,7 @@ class Index extends React.Component {
     const Racc = () => {
       return (
         <div className="productShowcaseSection mgb-50">
-          <p className="title">RACC</p>
+          <p className="title">racc</p>
           <p className="discripe">让组件编写更具效率化</p>
           <div className="buttons">
             <div>
@@ -82,8 +82,8 @@ class Index extends React.Component {
     const Blocks = () => {
       return (
         <div className="productShowcaseSection mgb-50">
-          <p className="title">Block</p>
-          <p className="discripe">*****</p>
+          <p className="title">venom-block</p>
+          <p className="discripe">各种场景区块，一键生成</p>
           <div className="buttons">
             <div>
               <Button href="">开始使用</Button>
@@ -95,8 +95,8 @@ class Index extends React.Component {
     const Vscode = () => {
       return (
         <div className="productShowcaseSection mgb-50">
-          <p className="title">Venom Snippets</p>
-          <p className="discripe">*****</p>
+          <p className="title">venom-snippets</p>
+          <p className="discripe">vscode编辑器代码块插件</p>
           <div className="buttons">
             <div>
               <Button href="">开始使用</Button>
