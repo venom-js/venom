@@ -24,7 +24,11 @@
     },
     "links": {
       "首页": "首页",
+<<<<<<< HEAD
       "venom-cli": "venom-cli",
+=======
+      "create-venom": "create-venom",
+>>>>>>> a95aba520063ac8116c627c22f611ee851ef373e
       "组件": "组件",
       "博客": "博客"
     },
