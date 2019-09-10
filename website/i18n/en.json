@@ -3,7 +3,7 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "A website for testing",
+    "tagline": "SPA应用全流程解决方案",
     "docs": {
       "doc1_introduce": {
         "title": "venom-cli",
@@ -23,10 +23,10 @@
       }
     },
     "links": {
-      "Docs": "Docs",
-      "API": "API",
-      "Help": "Help",
-      "Blog": "Blog"
+      "首页": "首页",
+      "venom-cli": "venom-cli",
+      "组件": "组件",
+      "博客": "博客"
     },
     "categories": {
       "Venom": "Venom",
