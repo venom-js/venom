@@ -32,7 +32,7 @@ class Index extends React.Component {
           <p className="discripe">专注于可视化配置的企业级脚手架</p>
           <div className="buttons">
             <div>
-              <Button href="docs/doc1_introduce">开始探索</Button>
+              <Button href="docs/aboutVenom">开始探索</Button>
             </div>
             <div style={{ marginLeft: "20px" }}>
               <a

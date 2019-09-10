@@ -1,5 +1,5 @@
 ---
-id: doc1_introduce
+id: introduce
 title: venom-cli
 sidebar_label: 介绍
 ---

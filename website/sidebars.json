@@ -1,6 +1,15 @@
 {
   "docs": {
-    "Venom": ["doc1_introduce", "doc2_quickStart"]
+    "Venom": [
+      "aboutVenom",
+      "ready",
+      "quickStart",
+      "example",
+      "catalogAndAppoint",
+      "withDva",
+      "withRematch",
+      "withMobx"
+    ]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

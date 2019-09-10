@@ -1,6 +1,6 @@
 ---
-id: doc2_quickStart
-title: 快速开始
+id: quickStart
+title: 快速上手（create-venom & venom-admin）
 ---
 
 ## 全局安装

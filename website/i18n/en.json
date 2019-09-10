@@ -5,21 +5,42 @@
     "previous": "Previous",
     "tagline": "SPA应用全流程解决方案",
     "docs": {
-      "doc1_introduce": {
-        "title": "venom-cli",
-        "sidebar_label": "介绍"
+      "aboutVenom": {
+        "title": "关于Venom"
       },
-      "doc2_quickStart": {
-        "title": "快速开始"
+      "catalogAndAppoint": {
+        "title": "目录及约定"
       },
       "doc3": {
         "title": "This is document number 3"
+      },
+      "example": {
+        "title": "例子"
       },
       "doc4": {
         "title": "Other Document"
       },
       "doc5": {
         "title": "Fifth Document"
+      },
+      "introduce": {
+        "title": "venom-cli",
+        "sidebar_label": "介绍"
+      },
+      "quickStart": {
+        "title": "快速上手（create-venom & venom-admin）"
+      },
+      "ready": {
+        "title": "上手准备"
+      },
+      "withDva": {
+        "title": "withDva"
+      },
+      "withMobx": {
+        "title": "withMobx"
+      },
+      "withRematch": {
+        "title": "withRematch"
       }
     },
     "links": {
