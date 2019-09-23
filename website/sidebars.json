@@ -1,19 +1,34 @@
 {
   "docs": {
     "Venom": [
-      "aboutVenom",
-      "ready",
-      "quickStart",
-      "example",
-      "catalogAndAppoint",
+      {
+        "type": "subcategory",
+        "label": "关于venom",
+        "ids": ["aboutVenom", "aboutTeam"]
+      },
+      {
+        "type": "subcategory",
+        "label": "上手准备",
+        "ids": ["reactHook", "typeScript", "dva"]
+      },
+      {
+        "type": "subcategory",
+        "label": "快速上手",
+        "ids": ["globalInstall", "tempList", "createTemp", "layoutVisualConfig"]
+      },
+      {
+        "type": "subcategory",
+        "label": "例子",
+        "ids": ["demo", "product"]
+      },
+      {
+        "type": "subcategory",
+        "label": "目录及约定",
+        "ids": ["catalogAndAppoint"]
+      },
       "config",
-      "withDva",
-      "withRematch",
-      "withMobx"
+      "withDva"
     ]
-  },
-  "docs1": {
-    "Block": ["aboutBlock"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

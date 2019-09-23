@@ -40,7 +40,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    { href: "docs/docs1/aboutBlock", label: "block" },
+    // { href: "docs/docs1/aboutBlock", label: "block" },
     { href: "/", label: "首页" },
     { doc: "aboutVenom", label: "create-venom" },
     { href: "/racc", label: "组件" },

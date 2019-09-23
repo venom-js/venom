@@ -5,8 +5,11 @@
     "previous": "Previous",
     "tagline": "SPA应用全流程解决方案",
     "docs": {
+      "aboutTeam": {
+        "title": "团队介绍"
+      },
       "aboutVenom": {
-        "title": "关于Venom"
+        "title": "venom介绍"
       },
       "catalogAndAppoint": {
         "title": "目录及约定"
@@ -14,11 +17,20 @@
       "config": {
         "title": "配置"
       },
+      "createTemp": {
+        "title": "生成模板"
+      },
+      "demo": {
+        "title": "示例demo"
+      },
       "doc3": {
         "title": "This is document number 3"
       },
       "docs1/aboutBlock": {
         "title": "关于Block"
+      },
+      "dva": {
+        "title": "dva"
       },
       "example": {
         "title": "例子"
@@ -29,15 +41,33 @@
       "doc5": {
         "title": "Fifth Document"
       },
+      "globalInstall": {
+        "title": "全局安装"
+      },
       "introduce": {
         "title": "venom-cli",
         "sidebar_label": "介绍"
       },
+      "layoutVisualConfig": {
+        "title": "布局可视化配置"
+      },
+      "product": {
+        "title": "成品"
+      },
       "quickStart": {
         "title": "快速上手（create-venom & venom-admin）"
       },
+      "reactHook": {
+        "title": "React Hook"
+      },
       "ready": {
         "title": "上手准备"
+      },
+      "tempList": {
+        "title": "查看模板"
+      },
+      "typeScript": {
+        "title": "TypeScript"
       },
       "withDva": {
         "title": "withDva"
@@ -49,13 +79,7 @@
         "title": "withRematch"
       }
     },
-    "docs1": {
-      "aboutBlock": {
-        "title": "关于Block"
-      }
-    },
     "links": {
-      "block": "block",
       "首页": "首页",
       "create-venom": "create-venom",
       "组件": "组件",
@@ -63,7 +87,6 @@
     },
     "categories": {
       "Venom": "Venom",
-      "Block": "Block",
       "First Category": "First Category"
     }
   },
