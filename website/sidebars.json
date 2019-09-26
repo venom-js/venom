@@ -24,7 +24,27 @@
       {
         "type": "subcategory",
         "label": "目录及约定",
-        "ids": ["catalogAndAppoint"]
+        "ids": [
+          "cataConfig",
+          "cataSrc",
+          "cataSrcCommon",
+          "cataSrcComponents",
+          "cataSrcLayouts",
+          "cataSrcModels",
+          "cataSrcPages",
+          "cataSrcServices",
+          "cataSrcTypes",
+          "cataSrcUtils",
+          "cataSrcGlobalLess",
+          "cataEditorConfig",
+          "cataEnv",
+          "cataEslintrc",
+          "cataPrettierrc",
+          "cataPackageJson",
+          "cataTsconfigJson",
+          "cataTslintJson",
+          "cataTypingsDTs"
+        ]
       },
       "config",
       "withDva"

@@ -11,8 +11,65 @@
       "aboutVenom": {
         "title": "venom介绍"
       },
+      "cataConfig": {
+        "title": "config"
+      },
+      "cataEditorConfig": {
+        "title": ".editorconfig"
+      },
+      "cataEnv": {
+        "title": ".env"
+      },
+      "cataEslintrc": {
+        "title": ".eslintrc"
+      },
       "catalogAndAppoint": {
         "title": "目录及约定"
+      },
+      "cataPackageJson": {
+        "title": "package.json"
+      },
+      "cataPrettierrc": {
+        "title": ".prettierrc"
+      },
+      "cataSrc": {
+        "title": "src"
+      },
+      "cataSrcCommon": {
+        "title": "src/common"
+      },
+      "cataSrcComponents": {
+        "title": "src/components"
+      },
+      "cataSrcGlobalLess": {
+        "title": "src/global.less"
+      },
+      "cataSrcLayouts": {
+        "title": "src/layouts"
+      },
+      "cataSrcModels": {
+        "title": "src/models"
+      },
+      "cataSrcPages": {
+        "title": "src/pages"
+      },
+      "cataSrcServices": {
+        "title": "src/services"
+      },
+      "cataSrcTypes": {
+        "title": "src/types"
+      },
+      "cataSrcUtils": {
+        "title": "src/utils"
+      },
+      "cataTsconfigJson": {
+        "title": "tsconfig.json"
+      },
+      "cataTslintJson": {
+        "title": "tslint.json"
+      },
+      "cataTypingsDTs": {
+        "title": "typings.d.ts"
       },
       "config": {
         "title": "配置"
